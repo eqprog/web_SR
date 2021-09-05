@@ -1,0 +1,8 @@
+# Untracked files:
+*__pycache__*
+test/
+upscale_models/*
+images/*
+testserver/settings.py
+db.sqlite3
+*/migrations
